@@ -6,7 +6,7 @@ excerpt: 'In this work we address the problem of landmark-based segmentation for
 date: 2021-09-27
 venue: 'MICCAI 2021 - International Conference on Medical Image Computing and Computer-Assisted Intervention'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-87193-2_57'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Gaggion, N., Mansilla, L., Milone, D. H., & Ferrante, E. (2021, September). Hybrid graph convolutional neural networks for landmark-based anatomical segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 600-610). Springer, Cham.'
 ---
 
 ## Hybrid graph convolutional neural networks for landmark-based anatomical segmentation
