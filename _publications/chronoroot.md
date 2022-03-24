@@ -2,7 +2,7 @@
 title: "ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture"
 collection: publications
 permalink: /publication/ChronoRoot
-excerpt: 'ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture'
+excerpt: ''
 date: 20 July 2021
 venue: 'Gigascience'
 paperurl: 'https://academic.oup.com/gigascience/article/10/7/giab052/6324285'
