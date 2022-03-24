@@ -20,8 +20,6 @@ citation: 'Gaggion, N., Ariel, F., Daric, V., Lambert, É., Legendre, S., Roulé
 
 ## ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture
 
-https://academic.oup.com/gigascience/article/10/7/giab052/6324285?login=true
-
 ### Abstract
 
 Background \
