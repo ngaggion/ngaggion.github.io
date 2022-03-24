@@ -36,5 +36,5 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-talk.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
