@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/deeplearning
 venue: "Universidad Nacional del Litoral, Facultad de Ingeniería y Ciencias Hídricas"
-date: 2021
+date: 2021-07-01
 location: "Santa Fe"
 ---
