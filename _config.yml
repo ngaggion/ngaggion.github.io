@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nicolas Gaggion"
-  avatar           : "images/photo.jpg"
+  avatar           : "photo.jpg"
   bio              : "PhD Student"
   location         : "Santa Fe, Argentina"
   employer         : "CONICET-UNL"
