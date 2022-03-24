@@ -19,7 +19,20 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-    
+  
+Awards
+======
+
+- 2021 - Best Poster Award - LatinX in CV (LXCV) Research at ICCV 2021
+- 2021 - Student Travel Award - MICCAI 2021, 24th International Conference on Medical Image Computing and Computer Assisted Intervention
+- 2019 - Honorific mention at Best Poster Award - Khipu: Latin American Meeting In Artificial Intelligence
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
