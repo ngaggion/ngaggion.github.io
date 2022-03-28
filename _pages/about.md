@@ -10,10 +10,12 @@ redirect_from:
 
 ### About me
 
-I'm a Computing Engineer, doing my PhD studies at Universidad Nacional del Litoral, Santa Fe, Argentina. In particular, I work at sinc(i), the Research institute for signals, systems and computational intelligence, on topics such as Graph CNNs applied to medical imaging and automatic plant root phenotyping using deep learning.
+I'm a Computing Engineer, doing my PhD studies at Universidad Nacional del Litoral, Santa Fe, Argentina. In particular, I work at sinc(i) (<https://sinc.unl.edu.ar/>), the Research institute for signals, systems and computational intelligence, on topics such as Graph CNNs applied to medical imaging and automatic plant root phenotyping using deep learning.
 
 I'm now a chief of practical works (JTP in Argentina) at the Facultad de Ingeniería Química, teaching Informatics on the first semester. On the second semester, I'm a teaching assistant in the Deep Learning course at the Facultad de Ingeniería y Ciencias Hídricas (both in the Universidad Nacional del Litoral).
 
-### About the lab (https://sinc.unl.edu.ar)
+### Sobre mi (Español)
 
-Research at sinc(i) aims to develop new algorithms for machine learning, data mining, signal processing and complex systems, providing innovative technologies for advancing healthcare, bioinformatics, precision agriculture, autonomous systems and human-computer interfaces. Research facilities are located in the Facultad de Ingeniería y Ciencias Hídricas building, Universidad Nacional del Litoral, on the University Campus.
+Soy Ingeniero en Informática, realizando mi doctorado en la Universidad Nacional del Litoral, Santa Fe, Argentina. Realizo mis actividades en el sinc(i), Instituto de investigación en señales, sistemas e inteligencia computacional. Trabajo sobre temas como aplicación de redes neuronales en grafo en el contexto de imágenes médicas, o el fenotipado automático de raíces de plantas mediante métodos que incorporan aprendizaje profundo.
+
+Como docente, tengo un cargo de Jefe de trabajos prácticos (JTP) en la Facultad de Ingeniería Química (FIQ-UNL) desde comienzos de 2022, con el cual soy docente de Informática en el primer cuatrimestre. En el segundo cuatrimestre me desempeño como ayudante en el curso de Deep Learning de la Facultad de Ingeniería y Ciencias Hídricas (FICH-UNL) desde 2021.
