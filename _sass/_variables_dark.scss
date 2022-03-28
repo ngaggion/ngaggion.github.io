@@ -47,17 +47,20 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #0c1318;
+$gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$background-color           : #ffffff;
-$code-background-color      : mix(rgb(255, 255, 255), $background-color, 15%);
-$code-background-color-dark : mix(rgb(48, 46, 46), $background-color, 20%);
+$body-color                 : #252a34;
+$background-color           : #252a34;
+$code-background-color      : mix(#000, $background-color, 15%);
+$code-background-color-dark : mix(#000, $background-color, 20%);
+$text-color                 : #eaeaea;
+$border-color               : mix(#fff, $background-color, 20%);
 
-$primary-color              : #263875;
+$primary-color              : #8cd2d5;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -69,7 +72,7 @@ $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
-$github-color               : #a56b13;
+$github-color               : #171516;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
@@ -84,6 +87,16 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+
+
+/* links */
+$link-color                 : mix(#000, $info-color, 15%) !default;
+$link-color-hover           : mix(#000, $link-color, 25%) !default;
+$link-color-visited         : mix(#fff, $link-color, 15%) !default;
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
+
 
 /*
    Breakpoints
@@ -139,54 +152,3 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
-
-
-/* Colors */
-$text-color: #000 !default;
-$muted-text-color: $text-color !default;
-$primary-color: #ff0000 !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #000 !default;
-$link-color: #0b0b6b !default;
-$link-color-hover: #080875 !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-
-/* contrast syntax highlighting (base16) */
-$base00: #000000 !default;
-$base01: #242422 !default;
-$base02: #484844 !default;
-$base03: #6c6c66 !default;
-$base04: #918f88 !default;
-$base05: #b5b3aa !default;
-$base06: #d9d7cc !default;
-$base07: #fdfbee !default;
-$base08: #ff6c60 !default;
-$base09: #e9c062 !default;
-$base0a: #ffffb6 !default;
-$base0b: #a8ff60 !default;
-$base0c: #c6c5fe !default;
-$base0d: #96cbfe !default;
-$base0e: #ff73fd !default;
-$base0f: #b18a3d !default;
-
-.page__content {
-  .notice,
-  .notice--primary,
-  .notice--info,
-  .notice--warning,
-  .notice--success,
-  .notice--danger {
-    color: $text-color;
-  }
-}
-
-.page__footer {
- background-color: rgb(61, 61, 61) !important;
-  color: rgb(255, 255, 255) !important; // override
-}
-
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
