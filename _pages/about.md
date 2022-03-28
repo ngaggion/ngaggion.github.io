@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I'm a Computing Engineer, doing my PhD studies at Universidad Nacional del Litoral, Santa Fe, Argentina. In particular, I work at sinc(i) (<https://sinc.unl.edu.ar/>), the Research institute for signals, systems and computational intelligence, on topics such as Graph CNNs applied to medical imaging and automatic plant root phenotyping using deep learning.
+I'm a Computing Engineer, doing my PhD studies at Universidad Nacional del Litoral, Santa Fe, Argentina. In particular, I work at [sinc(i)](https://sinc.unl.edu.ar/), the Research institute for signals, systems and computational intelligence, on topics such as Graph CNNs applied to medical imaging and automatic plant root phenotyping using deep learning.
 
 I'm now a chief of practical works (JTP in Argentina) at the Facultad de Ingeniería Química, teaching Informatics on the first semester. On the second semester, I'm a teaching assistant in the Deep Learning course at the Facultad de Ingeniería y Ciencias Hídricas (both in the Universidad Nacional del Litoral).
 
