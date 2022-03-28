@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin: "dark"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Nicolás Gaggion / Personal website"
@@ -146,7 +148,6 @@ exclude:
   - package.json
   - tmp
   - vendor
-keep_files:
   - .git
   - .svn
 encoding: "utf-8"
@@ -265,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
