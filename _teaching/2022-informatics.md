@@ -1,5 +1,5 @@
 ---
-title: "Chief of Practical Works - Informatics"
+title: "Teaching assistant - Informatics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/informatica
