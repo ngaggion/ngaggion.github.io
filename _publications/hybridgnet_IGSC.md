@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/hybridgnet_igsc
 excerpt: ''
 date: 2022-03-19
-venue: 'Arxiv pre-print'
+status: 'Under-review'
 paperurl: 'https://arxiv.org/abs/2203.10977'
 citation: 'Gaggion, N., Mansilla, L., Mosquera C., Milone, D. H., & Ferrante, E. (2022, March). Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis. arxiv pre-print, https://doi.org/10.48550/arXiv.2203.10977'
 ---
