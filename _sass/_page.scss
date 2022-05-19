@@ -117,7 +117,7 @@
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
+    padding: 1em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
@@ -341,7 +341,7 @@
   @include breakpoint($large) {
     width: 80px;
     height: 80px;
-    padding: 5px;
+    padding: 3px;
     border: 1px solid $border-color;
   }
 }

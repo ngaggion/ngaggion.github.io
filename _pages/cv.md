@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<br/>
+
 Education
 ======
 * Computing Engineer (Ingeniería en Informática), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, March 2020
@@ -16,25 +18,24 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-paper-cv.html %}
   {% endfor %}</ul>
   
 Awards
 ======
-
 - 2021 - Best Poster Award - LatinX in CV (LXCV) Research at ICCV 2021
 - 2021 - Student Travel Award - MICCAI 2021, 24th International Conference on Medical Image Computing and Computer Assisted Intervention
 - 2019 - Honorific mention at Best Poster Award - Khipu: Latin American Meeting In Artificial Intelligence
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-course.html %}
   {% endfor %}</ul>

@@ -7,9 +7,12 @@ date: 2021-09-27
 status: 'Published at MICCAI 2021 - International Conference on Medical Image Computing and Computer-Assisted Intervention'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-87193-2_57'
 citation: 'Gaggion, N., Mansilla, L., Milone, D. H., & Ferrante, E. (2021, September). Hybrid graph convolutional neural networks for landmark-based anatomical segmentation. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 600-610). Springer, Cham.'
+image: '/images/hybrid_miccai.png'
 ---
 
 ## Hybrid graph convolutional neural networks for landmark-based anatomical segmentation
+
+<img src='/images/hybrid_miccai.png'>
 
 ### Abstract
 

@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -22,7 +22,7 @@
 
 .archive__subtitle {
   margin: 1.414em 0 0;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.3em;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
@@ -41,6 +41,14 @@
   }
 }
 
+.archive__item-title2 {
+  margin-bottom: 0.25em;
+  font-family: $sans-serif-narrow;
+
+  a + a {
+    opacity: 0.5;
+  }
+}
 /* remove border*/
 .page__content {
 
@@ -106,7 +114,7 @@
    ========================================================================== */
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 
   .page__meta {
     margin: 0 0 4px;
@@ -151,13 +159,13 @@
 
 .feature__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   border-bottom: 1px solid $border-color;
 }
 
 .feature__item {
-  margin-bottom: 2em;
-  font-size: 1.25rem;
+  margin-bottom: 1em;
+  font-size: 1.15rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;
@@ -171,10 +179,10 @@
 
   &--left {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1.15rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 1em;
     }
 
     @include breakpoint($small) {
@@ -192,10 +200,10 @@
 
   &--right {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1.15rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 1em;
     }
 
     @include breakpoint($small) {
@@ -215,10 +223,10 @@
 
   &--center {
     @include full();
-    font-size: 1.25rem;
+    font-size: 1.15rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 1em;
     }
 
     @include breakpoint($small) {
@@ -226,7 +234,7 @@
 
       .archive__item-teaser {
         margin: 0 auto;
-        width: span(5 of 12);
+        width: span(6 of 12);
       }
 
       .archive__item-body {

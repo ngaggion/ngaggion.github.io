@@ -14,7 +14,7 @@ I'm a Computing Engineer, doing my PhD studies at Universidad Nacional del Litor
 
 I'm now a teaching assistant ([Jefe de trabajos prácticos in Argentina](https://en.wikipedia.org/wiki/Academic_ranks_in_Argentina)) at the Facultad de Ingeniería Química, teaching Informatics. On the second semester every other year, I'm an ad honorem teaching assistant in the Deep Learning course at the Facultad de Ingeniería y Ciencias Hídricas. Both faculties are in the Universidad Nacional del Litoral.
 
-### Sobre mi (Español)
+### Sobre mi
 
 Soy Ingeniero en Informática, realizando mi doctorado en la Universidad Nacional del Litoral, Santa Fe, Argentina. Realizo mis actividades en el sinc(i), Instituto de investigación en señales, sistemas e inteligencia computacional. Trabajo sobre temas como aplicación de redes neuronales en grafo en el contexto de imágenes médicas, o el fenotipado automático de raíces de plantas mediante métodos que incorporan aprendizaje profundo.
 
