@@ -8,9 +8,14 @@ status: 'Published at Gigascience'
 paperurl: 'https://academic.oup.com/gigascience/article/10/7/giab052/6324285'
 citation: 'Gaggion, N., Ariel, F., Daric, V., Lambert, É., Legendre, S., Roulé, T., ... & Ferrante, E. (2021). ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture. GigaScience, 10(7), giab052.'
 image: '/images/chronoroot.png'
+video_abstract: 'https://www.youtube.com/watch?v=3En7OyAwv_U'
+video_presentation: 'https://www.youtube.com/watch?v=eGf113JnqHU'
 ---
 
 ## ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture
+
+<a href="{{ https://www.youtube.com/watch?v=3En7OyAwv_U }}">Video Abstract</a>
+<a href="{{ https://www.youtube.com/watch?v=eGf113JnqHU }}">Video Presentation</a>
 
 <img src='/images/chronoroot.png'>
 

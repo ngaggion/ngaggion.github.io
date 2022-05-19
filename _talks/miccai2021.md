@@ -6,4 +6,5 @@ permalink: /talks/miccai2021
 venue: "MICCAI 2021, 24th International Conference on Medical Image Computing and Computer Assisted Intervention"
 date: 2021-09-27
 location: "Virtual Event"
+video_presentation: 'https://www.youtube.com/watch?v=NAJkpf1fk8w'
 ---

@@ -34,6 +34,17 @@
       {% endif %}
     </h3>
     {% if post.status %}<p class="archive__item-excerpt" itemprop="description">{{ post.status}}, {{ post.date | date: '%Y' }}</p>{% endif %}
-    </li>
+    {% if post.paperurl and post.video_abstract and post.video_presentation%}<p class="archive__item-links" itemprop="description">
+      <a href="{{ post.paperurl }}">Link to Paper</a>
+        <a href="{{ post.video_abstract }}">Video Abstract</a>
+          <a href="{{ post.video_presentation }}">Video Presentation</a></p>
+    {% elsif post.paperurl and post.video_presentation %}<p class="archive__item-links" itemprop="description">
+      <a href="{{ post.paperurl }}">Link to Paper</a>
+        <a href="{{ post.video_presentation }}">Video Presentation</a></p>
+    {% elsif post.paperurl %}<p class="archive__item-links" itemprop="description">
+      <a href="{{ post.paperurl }}">Link to Paper</a></p>
+    {% endif %}
+        
+  </li>
   </article>
 </div>
