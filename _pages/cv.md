@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br/>
-
 Education
 ======
 * Computing Engineer (Ingeniería en Informática), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, March 2020
