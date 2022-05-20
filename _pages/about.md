@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Computing Engineer, currently doing my PhD studies under a [CONICET](https://www.conicet.gov.ar/) scholarship at [Universidad Nacional del Litoral](unl.edu.ar) (UNL), Santa Fe, Argentina. In particular, I work at [sinc(i)](https://sinc.unl.edu.ar/), the Research institute for signals, systems and computational intelligence, under the supervision of [Enzo Ferrante](eferrante.github.io) on topics such as computer vision, graphs neural networks and deep learning.
+I'm a Computing Engineer, in May 2020 I received my degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Since then, I've been doing my PhD studies under a [CONICET](https://www.conicet.gov.ar/) scholarship at the same university. In particular, I work at [sinc(i)](https://sinc.unl.edu.ar/), the Research institute for signals, systems and computational intelligence, under the supervision of [Enzo Ferrante](https://eferrante.github.io) on topics such as computer vision, graphs neural networks and deep learning.
 
-I like teaching, so I am also a teaching assistant on courses such as Informatics or Deep Learning, based on the current semester. My position as TA is in the [Facultad de Ingeniería Química](fiq.unl.edu.ar), also at UNL.
+I like teaching, so I am also a teaching assistant on courses such as Informatics or Deep Learning, based on the current semester. My position as TA is in the [Facultad de Ingeniería Química](https://fiq.unl.edu.ar), also at UNL.
 
 ## **My research**
 

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Computing Engineer (Ingeniería en Informática), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, March 2020
+* Computing Engineer (Ingeniería en Informática), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, May 2020
 * Ph.D in Engineering (mention on Signals, Systems and Artificial Intelligence), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, 2024 (expected)
 
 Publications
