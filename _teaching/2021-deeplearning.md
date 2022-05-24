@@ -1,7 +1,7 @@
 ---
 title: "Teaching assistant - Deep Learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/deeplearning
 venue: "Universidad Nacional del Litoral, Facultad de Ingeniería y Ciencias Hídricas"
 date: 2021-07-01
