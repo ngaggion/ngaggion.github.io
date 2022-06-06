@@ -11,8 +11,15 @@ redirect_from:
 
 Education
 ======
-* Computing Engineer (Ingeniería en Informática), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, May 2020
-* Ph.D in Engineering (mention on Signals, Systems and Artificial Intelligence), Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, 2024 (expected)
+* Computing Engineer, Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, May 2020
+* PhD in Engineering, Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, 2024 (expected)
+
+Research internships
+======
+- 1st July to 1st August 2022 - Research internship at CISTIB lab, Center for Computational Imaging & Simulation Tech-
+nologies in Biomedicine, University of Leeds, Leeds, UK. Under the supervision of Prof. Alex Frangi.
+- To begin: 1st October - Research internship at IPS2, Institute of Plant Sciences Paris-Saclay, 1 month visit, University
+of Paris, Paris, France.
 
 Publications
 ======
