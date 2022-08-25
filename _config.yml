@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolás Gaggion / Personal website"
+title                    : "Nicolás Gaggion"
 title_separator          : "-"
 name                     : &name "Nicolás Gaggion"
 description              : &description "PhD Student"

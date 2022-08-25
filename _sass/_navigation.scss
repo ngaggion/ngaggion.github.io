@@ -175,18 +175,40 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
+  min-height: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
   background: $background-color;
 
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    -webkit-transition: none;
+    transition: none;
 
     &:hover {
       color: $masthead-link-color-hover;
     }
+
+    &.site-logo {
+      margin-left: 0;
+      margin-right: 0.5rem;
+    }
+
+    &.site-title {
+      margin-left: 0;
+    }
+  }
+
+  img {
+    -webkit-transition: none;
+    transition: none;
   }
 
   button {
@@ -232,19 +254,18 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: $primary-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+        -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+        transform: scaleX(0) translate3d(0, 0, 0); // hide
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+        -ms-transform: scaleX(1);
+        transform: scaleX(1); // reveal
       }
     }
   }
