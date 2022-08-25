@@ -10,18 +10,13 @@ redirect_from:
 
 I'm a Computing Engineer, in May 2020 I received my degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Since then, I've been doing my PhD studies under a [CONICET](https://www.conicet.gov.ar/) scholarship at the same university. In particular, I work at [sinc(i)](https://sinc.unl.edu.ar/), the Research institute for signals, systems and computational intelligence, under the supervision of [Enzo Ferrante](https://eferrante.github.io) on topics such as computer vision, graphs neural networks and deep learning.
 
-I like teaching, so I am also a teaching assistant on courses such as Informatics or Deep Learning, based on the current semester. My position as TA is in the [Facultad de Ingeniería Química](https://fiq.unl.edu.ar), also at UNL.
+I like teaching, so I am also a teaching assistant on courses such as Informatics, Machine Learning or Deep Learning, based on the current semester. My position as TA is in the [Facultad de Ingeniería Química](https://fiq.unl.edu.ar), also at UNL.
 
-## **My research**
+## **Latest news**
 
-I work mainly on two different research lines:
-
-- **Plant root phenotyping using deep learning**:\
-  My Computing Engineer thesis consisted on the development of a deep learning based approach to provide high throughtput phenotyping of plant roots in temporal series of images using deep learning. This project was done in colaboration with my co-supervisor Federico Ariel from the [Instituto de Agrobiotecnología del Litoral](https://ial.conicet.gov.ar/) (IAL), and members of the [Institute of Plant Sciences Paris Saclay](https://ips2.u-psud.fr/en/index.html) (IPS2).\
-  We are currently putting this work into production, in order to be used at several plant biology labs around the globe. \
-  Within this project, we also launched a [root segmentation challenge](https://sites.google.com/sinc.unl.edu.ar/root-segmentation-challenge) during the CVPPA workshop at ICCV '21. 
-
-- **Image-to-graph extraction mixing graph neural networks with convolutional neural networks:**\
-  As the main topic of my PhD thesis, I am currently working on the image-to-graph extraction problem in the context of medical imaging. In particular, I'm applying this approach to segment images using graph representations of the anatomical structure (such as meshes) instead of providing pixel-level segmentations. 
-
-Both research lines coincide in the problem of extracting graph structures from images. On the first one, we obtain a graph representation of the plant root by a mix of deep learning based segmentation and a classic approach of graph construction from the segmentation's skeleton. On the second one, we produce end-to-end trainable models for anatomical segmentation via graph neural networks.
+- 25 August 2022: Started teaching "Linear Algebra, Optimization and Machine Learning" at [FIQ, UNL](http://fich.unl.edu.ar).
+- 02 August 2022: Last day on [CISTIB](https://www.cistib.org/)!
+- 15 July 2022: I visited the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at UCL for the last day of Medicss.
+- 11 – 15 July 2022: I participated on the [UCL Medical Image Computing Summer School (MedICSS)](https://medicss.cs.ucl.ac.uk/). I got on the Top 3 for group project work, on “Devising a deep learning pipeline for retinal image analysis”.
+- 1 July 2022: I joined the [Center for Computational Imaging & Simulation Technologies in Biomedicine, CISTIB](https://www.cistib.org/), at Leeds University
+- 19 - 24 June 2022: I participated virtually on [CVPR 22](https://cvpr2022.thecvf.com/) under a free registration and travel award granted by the conference. Due to visa restrictions I could not travel to the US.
