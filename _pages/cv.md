@@ -16,10 +16,8 @@ Education
 
 Research internships
 ======
-- 1st July to 1st August 2022 - Research internship at CISTIB lab, Center for Computational Imaging & Simulation Tech-
-nologies in Biomedicine, University of Leeds, Leeds, UK. Under the supervision of Prof. Alex Frangi.
-- To begin: 1st October - Research internship at IPS2, Institute of Plant Sciences Paris-Saclay, 1 month visit, University
-of Paris, Paris, France.
+- 1st July to 1st August 2022 - Research internship at CISTIB lab, Center for Computational Imaging & Simulation Technologies in Biomedicine, University of Leeds, Leeds, UK. Under the supervision of Prof. Alex Frangi.
+- 1st October - Research visitor at IPS2, Institute of Plant Sciences Paris-Saclay, 1 month visit, Université Paris-Saclay, Paris, France.
 
 Publications
 ======

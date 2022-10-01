@@ -14,6 +14,7 @@ I like teaching, so I am also a teaching assistant on courses such as Informatic
 
 ## **Latest news**
 
+- 30 September 2022: I arrived to Paris! Ready to start my research visit to the [Institute of Plant Sciences Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html).
 - 25 August 2022: Started teaching "Linear Algebra, Optimization and Machine Learning" at [FIQ, UNL](http://fich.unl.edu.ar).
 - 02 August 2022: Last day on [CISTIB](https://www.cistib.org/)!
 - 15 July 2022: I visited the [Centre for Medical Image Computing (CMIC)](https://www.ucl.ac.uk/medical-image-computing/) at UCL for the last day of Medicss.
