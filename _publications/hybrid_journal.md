@@ -3,10 +3,10 @@ title: "Improving anatomical plausibility in medical image segmentation via hybr
 collection: publications
 permalink: /publication/hybridgnet_igsc
 excerpt: ''
-date: 2022-03-19
-status: 'Accepted for publication at IEEE Transactions in Medical Imaging (In press)'
-paperurl: 'https://arxiv.org/abs/2203.10977'
-citation: 'Gaggion, N., Mansilla, L., Mosquera C., Milone, D. H., & Ferrante, E. (2022, March). Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis. arxiv pre-print, https://doi.org/10.48550/arXiv.2203.10977'
+date: 2022-11-24
+status: 'Published at IEEE Transactions in Medical Imaging'
+paperurl: 'https://ieeexplore.ieee.org/document/9963582'
+citation: 'N. Gaggion, L. Mansilla, C. Mosquera, D. H. Milone and E. Ferrante, "Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis," in IEEE Transactions on Medical Imaging, 2022, doi: 10.1109/TMI.2022.3224660.'
 image: '/images/hybrid_journal.png'
 ---
 
@@ -20,14 +20,14 @@ Anatomical segmentation is a fundamental task in medical image computing, genera
 
 ### Citation
 ````
-@misc{https://doi.org/10.48550/arxiv.2203.10977,
-  doi = {10.48550/ARXIV.2203.10977},
-  url = {https://arxiv.org/abs/2203.10977},
-  author = {Gaggion, Nicolás and Mansilla, Lucas and Mosquera, Candelaria and Milone, Diego H. and Ferrante, Enzo},
-  keywords = {Image and Video Processing (eess.IV), Computer Vision and Pattern Recognition (cs.CV)},
-  title = {Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
-}
+@ARTICLE{9963582,
+  author={Gaggion, Nicolás and Mansilla, Lucas and Mosquera, Candelaria and Milone, Diego H. and Ferrante, Enzo},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMI.2022.3224660}}
+
 ````

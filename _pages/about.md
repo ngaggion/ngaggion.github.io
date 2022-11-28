@@ -14,8 +14,8 @@ I like teaching, so I am also a teaching assistant on courses such as Informatic
 
 ## **Latest news**
 
+- 24 November 2022: Our work ["Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis"](https://ieeexplore.ieee.org/document/9963582) is online at IEEE Transactions in Medical Imaging!
 - 14 November 2022: Our latest work ["Multi-center anatomical segmentation with heterogeneous labels via landmark-based models"](https://arxiv.org/abs/2211.07395) is available on Arxiv.
-- 13 November 2022: Our work ["Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis"](https://arxiv.org/abs/2203.10977) was accepted for publication at IEEE Transactions in Medical Imaging!
 - 26 October 2022: I gave a seminar at [IPS2](https://ips2.u-psud.fr/fr/index.html), Université Paris-Saclay. Title: "ChronoRoot: high throughput phenotyping of plant roots using deep learning".
 - 25 October 2022: I gave a seminar at [CentralSupélec](https://www.centralesupelec.fr/), Université Paris-Saclay. Title: "Translating images into graphs: novel computer vision methods for extracting graphs from images"
 - 30 September 2022: I arrived to Paris! Ready to start my research visit to the [Institute of Plant Sciences Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html).
