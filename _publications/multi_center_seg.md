@@ -3,8 +3,8 @@ title: "Multi-center anatomical segmentation with heterogeneous labels via landm
 collection: publications
 permalink: /publication/multicenter
 excerpt: ''
-date: 2022-11-10
-status: 'Under-review'
+date: 2023-01-18
+status: 'Accepted for publication at the 20th IEEE International Symposium on Biomedical Imaging (ISBI 2023)'
 paperurl: 'https://arxiv.org/abs/2211.07395'
 citation: 'Gaggion, N., Vakalopoulou M., Milone, D. H., & Ferrante, E. (2022, March). Multi-center anatomical segmentation with heterogeneous labels via landmark-based models. arxiv pre-print'
 image: '/images/multicenter.png'
