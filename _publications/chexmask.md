@@ -8,11 +8,10 @@ status: 'In review'
 paperurl: 'https://arxiv.org/abs/2307.03293'
 citation: 'Gaggion, N., Mosquera, C., Mansilla, L., Aineseder, M., Milone, D. H., & Ferrante, E. (2023). CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images. arXiv preprint arXiv:2307.03293.'
 image: '/images/histogram_CheXmask_blue.png'
+dataset_link: 'https://physionet.org/content/chexmask-cxr-segmentation-data'
 ---
 
 ## CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images
-
-<a href="{{ https://physionet.org/content/chexmask-cxr-segmentation-data }}">Dataset Link</a>
 
 <img src='/images/histogram_CheXmask_blue.png'>
 

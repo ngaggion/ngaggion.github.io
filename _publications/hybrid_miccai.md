@@ -13,8 +13,6 @@ video_presentation: 'https://www.youtube.com/watch?v=NAJkpf1fk8w'
 
 ## Hybrid graph convolutional neural networks for landmark-based anatomical segmentation
 
-<a href="{{ https://www.youtube.com/watch?v=NAJkpf1fk8w }}">Video Presentation</a>
-
 <img src='/images/hybrid_miccai.png'>
 
 ### Abstract

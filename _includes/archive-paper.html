@@ -43,9 +43,12 @@
           <a href="{{ post.video_presentation }}">Video Presentation</a></p>
     {% elsif post.paperurl and post.video_presentation %}<p class="archive__item-links" itemprop="description">
       <a href="{{ post.paperurl }}">Link to Paper</a>
-        <a href="{{ post.video_presentation }}">Video Presentation</a></p>
+        <a href="{{ post.video_presentation }}">Video Presentation</a></p>  
+    {% elsif post.paperurl and post.dataset_link %}<p class="archive__item-links" itemprop="description">
+      <a href="{{ post.paperurl }}">Link to Paper</a>
+        <a href="{{ post.dataset_link }}">Link to Dataset</a></p>
     {% elsif post.paperurl %}<p class="archive__item-links" itemprop="description">
-      <a href="{{ post.paperurl }}">Link to Paper</a></p>
+      <a href="{{ post.paperurl }}">Link to Paper</a></p>  
     {% endif %}
       
     {% if post.image %}<img src="{{post.image}}" width = 600>{% endif %}

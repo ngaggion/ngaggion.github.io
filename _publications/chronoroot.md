@@ -14,9 +14,6 @@ video_presentation: 'https://www.youtube.com/watch?v=eGf113JnqHU'
 
 ## ChronoRoot: High-throughput phenotyping by deep segmentation networks reveals novel temporal parameters of plant root system architecture
 
-<a href="{{ https://www.youtube.com/watch?v=3En7OyAwv_U }}">Video Abstract</a>
-<a href="{{ https://www.youtube.com/watch?v=eGf113JnqHU }}">Video Presentation</a>
-
 <img src='/images/chronoroot.png'>
 
 ### Abstract
