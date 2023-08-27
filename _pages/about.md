@@ -16,6 +16,10 @@ In addition to my research work, I am passionate about educating the next genera
 
 ## **Latest News**
 
+- **27 August 2023**: Our HybridGNet model for Chest X-ray segmentation is now publicly available on a HuggingFace Space! Check it out [here](https://huggingface.co/spaces/ngaggion/Chest-x-ray-HybridGNet-Segmentation).
+
+- **7 July 2023**: We released the CheXmask Dataset, a large-scale dataset of anatomical segmentation masks for more than 650.000 multi-center chest x-ray images with both physician and automatic quality validation. The dataset is available at [PhysioNet](https://physionet.org/content/chexmask-cxr-segmentation-data). Check the paper on [arXiv](https://arxiv.org/abs/2307.03293)!
+
 - **18-23 June 2023**: Assisted the [International Conference on Information Processing in Medical Imaging (IPMI 2023)](https://ipmi2023.org/) in San Carlos de Bariloche, Argentina as a volunteer for the organization.
 
 - **6-10 March 2023:** Presented my work on "HybridGNet: Leveraging graph-based representations of organs for anatomically plausible medical image segmentation" at [Khipu: Latin American Meeting In Artificial Intelligence](https://khipu.ai/) in Montevideo, Uruguay in a poster presentation.

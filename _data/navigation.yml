@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "HybridGNet Demo"
+    url: /HybridGNetDemo/
+
   - title: "Teaching"
     url: /teaching/    
     
