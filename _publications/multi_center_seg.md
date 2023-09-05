@@ -3,10 +3,10 @@ title: "Multi-center anatomical segmentation with heterogeneous labels via landm
 collection: publications
 permalink: /publication/multicenter
 excerpt: ''
-date: 2023-01-18
-status: 'Accepted for publication at the 20th IEEE International Symposium on Biomedical Imaging (ISBI 2023)'
+date: 2023-09-01
+status: 'Published at the 20th IEEE International Symposium on Biomedical Imaging (ISBI 2023)'
 paperurl: 'https://arxiv.org/abs/2211.07395'
-citation: 'Gaggion, N., Vakalopoulou M., Milone, D. H., & Ferrante, E. (2022, March). Multi-center anatomical segmentation with heterogeneous labels via landmark-based models. arxiv pre-print'
+citation: 'N. Gaggion, M. Vaikalopoulou, D. H. Milone and E. Ferrante, "Multi-Center Anatomical Segmentation with Heterogeneous Labels Via Landmark-Based Models," 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI), Cartagena, Colombia, 2023, pp. 1-5, doi: 10.1109/ISBI53787.2023.10230691.'
 image: '/images/multicenter.png'
 ---
 
@@ -20,12 +20,21 @@ Learning anatomical segmentation from heterogeneous labels in multi-center datas
 
 ### Citation
 ````
-@misc{gaggion2022multicenter,
-      title={Multi-center anatomical segmentation with heterogeneous labels via landmark-based models}, 
-      author={Nicolás Gaggion and Maria Vakalopoulou and Diego H. Milone and Enzo Ferrante},
-      year={2022},
-      eprint={2211.07395},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
-}
+@INPROCEEDINGS{10230691,
+
+  author={Gaggion, Nicol{\'a}s and Vaikalopoulou, Maria and Milone, Diego H. and Ferrante, Enzo},
+
+  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)}, 
+
+  title={Multi-Center Anatomical Segmentation with Heterogeneous Labels Via Landmark-Based Models}, 
+
+  year={2023},
+
+  volume={},
+
+  number={},
+
+  pages={1-5},
+
+  doi={10.1109/ISBI53787.2023.10230691}}
 ````
