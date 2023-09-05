@@ -16,6 +16,8 @@ In addition to my research work, I am passionate about educating the next genera
 
 ## **Latest News**
 
+- **1st September 2023**: Our latest paper "Unsupervised bias discovery in medical image segmentation", accepted for publication at Fairness in AI in Medical Imaging - MICCAI 2023 Workshop, is now available on [arXiv](https://arxiv.org/abs/2309.00451).
+
 - **27 August 2023**: Our HybridGNet model for Chest X-ray segmentation is now publicly available on a HuggingFace Space! Check it out [here](https://huggingface.co/spaces/ngaggion/Chest-x-ray-HybridGNet-Segmentation).
 
 - **7 July 2023**: We released the CheXmask Dataset, a large-scale dataset of anatomical segmentation masks for more than 650.000 multi-center chest x-ray images with both physician and automatic quality validation. The dataset is available at [PhysioNet](https://physionet.org/content/chexmask-cxr-segmentation-data). Check the paper on [arXiv](https://arxiv.org/abs/2307.03293)!
