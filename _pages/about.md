@@ -8,15 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computing Engineer from Argentina, currently specializing in the field of computer vision, graph neural networks, and deep learning. In May 2020, I received my degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Upon completion, I secured a [CONICET](https://www.conicet.gov.ar/) scholarship to embark on my PhD journey at the same university.
+I am a Machine Learning Engineer PhD from Argentina, specialized in the field of computer vision, graph neural networks, and deep learning. 
 
-My research work is based at [sinc(i)](https://sinc.unl.edu.ar/), the Research Institute for Signals, Systems and Computational Intelligence. Here, I work under the direct supervision of [Enzo Ferrante](https://eferrante.github.io), contributing to cutting-edge developments in our field. My research often intersects with medical imaging, with key projects focusing on advanced segmentation techniques and leveraging deep learning for high throughput phenotyping of plant roots.
+In May 2020, I received my Computer Engineer degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Upon completion, I secured a [CONICET](https://www.conicet.gov.ar/) scholarship to embark on my PhD journey at the same university. On February 2024, after almost 4 intense years, I got my PhD in Engineering degree!
 
-In addition to my research work, I am passionate about educating the next generation of engineers and researchers. This passion is realized through my role as a teaching assistant at the [Facultad de Ingeniería Química](https://fiq.unl.edu.ar), UNL. Depending on the semester, I assist in teaching courses such as Informatics, Machine Learning, and Deep Learning.
+My PhD's work was based at [sinc(i)](https://sinc.unl.edu.ar/), the Research Institute for Signals, Systems and Computational Intelligence. There, I worked under the direct supervision of [Enzo Ferrante](https://eferrante.github.io), contributing to cutting-edge developments in our field. My research often intersects with medical imaging, with key projects focusing on advanced segmentation techniques and leveraging deep learning for high throughput phenotyping of plant roots.
 
 ## **Latest News**
 
-- **1st September 2023**: Our latest paper "Unsupervised bias discovery in medical image segmentation", accepted for publication at Fairness in AI in Medical Imaging - MICCAI 2023 Workshop, is now available on [arXiv](https://arxiv.org/abs/2309.00451).
+- **14 February 2024**: I defended my PhD Thesis, “Nuevos métodos de aprendizaje profundo para la extracción de grafos a partir de imágenes” (Novel deep learning methods for image to graph extraction)! I got my PhD degree in Engineering: Signals, Systems and Artificial Intelligence.
+
+- **January 2024**: I left Santa Fe, and now I'm living in Buenos Aires!
+
+- **22 November 2023**: Our latest paper "Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI", born from the colaboration with the [Center for Computational Imaging & Simulation Technologies in Biomedicine, CISTIB](https://www.cistib.org/), is now available on [arXiv](https://arxiv.org/abs/2311.13706).
+
+- **1st September 2023**: Our paper "Unsupervised bias discovery in medical image segmentation", accepted for publication at Fairness in AI in Medical Imaging - MICCAI 2023 Workshop, is now available on [arXiv](https://arxiv.org/abs/2309.00451).
 
 - **27 August 2023**: Our HybridGNet model for Chest X-ray segmentation is now publicly available on a HuggingFace Space! Check it out [here](https://huggingface.co/spaces/ngaggion/Chest-x-ray-HybridGNet-Segmentation).
 
