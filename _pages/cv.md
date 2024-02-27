@@ -21,7 +21,7 @@ Research internships
 
 Selected publications
 ======
-See full list in my [Google Scholar profile] (https://scholar.google.com/citations?user=CnwAbLMAAAAJ)
+See full list in my [Google Scholar profile](https://scholar.google.com/citations?user=CnwAbLMAAAAJ)
 
   <ul>{% for post in site.publications reversed%}
     {% include archive-paper-cv.html %}
