@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicolás Gaggion"
 title_separator          : "-"
 name                     : &name "Nicolás Gaggion"
-description              : &description "PhD Student"
+description              : &description "PhD in Engineering: Signals, systems and artificial intelligence. Machine Learning Engineer."
 url                      : https://ngaggion.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngaggion/ngaggion.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicolas Gaggion"
   avatar           : "photo.jpg"
-  bio              : "PhD Machine Learning Engineer"
+  bio              : "PhD in Engineering: Signals, systems and artificial intelligence. Machine Learning Engineer."
   location         : "https://maps.app.goo.gl/27q7LX1HtEvrfxzb7"
   employer         : 
   pubmed           : 

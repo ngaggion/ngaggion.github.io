@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Engineer PhD from Argentina, specialized in the field of computer vision, graph neural networks, and deep learning. 
+I am a PhD Machine Learning Engineer and Researcher from Argentina, specialized in the field of computer vision, graph neural networks, and deep learning. 
 
 In May 2020, I received my Computer Engineer degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Upon completion, I secured a [CONICET](https://www.conicet.gov.ar/) scholarship to embark on my PhD journey at the same university. On February 2024, after almost 4 intense years, I got my PhD in Engineering degree!
 
