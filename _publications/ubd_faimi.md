@@ -5,7 +5,7 @@ permalink: /publication/ubd_faimi
 excerpt: ''
 date: 2023-11-02
 status: 'Published at Fairness of AI in Medical Imaging - MICCAI 2023 Workshop'
-paperurl: 'https://arxiv.org/abs/2309.00451'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-45249-9_26'
 citation: 'Gaggion, N., Echeveste, R., Mansilla, L., Milone, D. H., & Ferrante, E. (2023, October). Unsupervised bias discovery in medical image segmentation. In Workshop on Clinical Image-Based Procedures (pp. 266-275). Cham: Springer Nature Switzerland.'
 image: '/images/ubd_faimi.png'
 ---
