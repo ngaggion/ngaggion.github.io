@@ -18,7 +18,7 @@ My PhD's work was based at [sinc(i)](https://sinc.unl.edu.ar/), the Research Ins
 
 - **17 May 2024**: The CheXmask database was published in [Scientific Data](https://www.nature.com/articles/s41597-024-03358-1)!
 
-- **1st May 2024**: Officially joined [APOLO Biotech](https://apolobiotech.com.ar/) as a Postdoctoral research scientist! Ready to perform high throughput phenotyping via novel computer vision algorithms.
+- **1 May 2024**: Officially joined [APOLO Biotech](https://apolobiotech.com.ar/) as a Postdoctoral research scientist! Ready to perform high throughput phenotyping via novel computer vision algorithms.
 
 - **March 2024**: I joined Universidad de San Andrés as a Professor in the Data Science Masters Program, and Universidad Torcuato Di Tella as a professor for computer systems in Digital Technology!
   
