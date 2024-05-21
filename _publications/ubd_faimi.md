@@ -3,10 +3,10 @@ title: "Unsupervised bias discovery in medical image segmentation"
 collection: publications
 permalink: /publication/ubd_faimi
 excerpt: ''
-date: 2023-09-02
-status: 'Accepted for publication at Fairness of AI in Medical Imaging - MICCAI 2023 Workshop'
+date: 2023-11-02
+status: 'Published at Fairness of AI in Medical Imaging - MICCAI 2023 Workshop'
 paperurl: 'https://arxiv.org/abs/2309.00451'
-citation: 'Gaggion, N., Echeveste R., Mansilla L., Milone, D. H., & Ferrante, E. (2023, September). Unsupervised bias discovery in medical image segmentation. arxiv pre-print'
+citation: 'Gaggion, N., Echeveste, R., Mansilla, L., Milone, D. H., & Ferrante, E. (2023, October). Unsupervised bias discovery in medical image segmentation. In Workshop on Clinical Image-Based Procedures (pp. 266-275). Cham: Springer Nature Switzerland.'
 image: '/images/ubd_faimi.png'
 ---
 
@@ -20,12 +20,12 @@ It has recently been shown that deep learning models for anatomical segmentation
 
 ### Citation
 ````
-@misc{gaggion2023unsupervised,
-      title={Unsupervised bias discovery in medical image segmentation}, 
-      author={Nicolás Gaggion and Rodrigo Echeveste and Lucas Mansilla and Diego H. Milone and Enzo Ferrante},
-      year={2023},
-      eprint={2309.00451},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{gaggion2023unsupervised,
+  title={Unsupervised bias discovery in medical image segmentation},
+  author={Gaggion, Nicol{\'a}s and Echeveste, Rodrigo and Mansilla, Lucas and Milone, Diego H and Ferrante, Enzo},
+  booktitle={Workshop on Clinical Image-Based Procedures},
+  pages={266--275},
+  year={2023},
+  organization={Springer}
 }
 ````

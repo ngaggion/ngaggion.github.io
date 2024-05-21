@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* Postdoctoral Researcher Scientist at APOLO Biotech 🚀
+
 Education
 ======
 * Computing Engineer, Facultad de Ingeniería y Ciencias Hídricas, Universidad Nacional del Litoral, May 2020

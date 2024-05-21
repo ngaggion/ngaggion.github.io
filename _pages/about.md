@@ -16,17 +16,23 @@ My PhD's work was based at [sinc(i)](https://sinc.unl.edu.ar/), the Research Ins
 
 ## **Latest News**
 
+- **17 May 2024**: The CheXmask database was published in [Scientific Data](https://www.nature.com/articles/s41597-024-03358-1)!
+
+- **1st May 2024**: Officially joined [APOLO Biotech](https://apolobiotech.com.ar/) as a Postdoctoral research scientist! Ready to perform high throughput phenotyping via novel computer vision algorithms.
+
+- **March 2024**: I joined Universidad de San Andrés as a Professor in the Data Science Masters Program, and Universidad Torcuato Di Tella as a professor for computer systems in Digital Technology!
+  
 - **14 February 2024**: I defended my PhD Thesis, “Nuevos métodos de aprendizaje profundo para la extracción de grafos a partir de imágenes” (Novel deep learning methods for image to graph extraction)! I got my PhD degree in Engineering: Signals, Systems and Artificial Intelligence.
 
 - **January 2024**: I left Santa Fe, and now I'm living in Buenos Aires!
 
 - **22 November 2023**: Our latest paper "Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI", born from the colaboration with the [Center for Computational Imaging & Simulation Technologies in Biomedicine, CISTIB](https://www.cistib.org/), is now available on [arXiv](https://arxiv.org/abs/2311.13706).
 
-- **1st September 2023**: Our paper "Unsupervised bias discovery in medical image segmentation", accepted for publication at Fairness in AI in Medical Imaging - MICCAI 2023 Workshop, is now available on [arXiv](https://arxiv.org/abs/2309.00451).
+- **1st September 2023**: Our paper "Unsupervised bias discovery in medical image segmentation", accepted for publication at Fairness in AI in Medical Imaging - MICCAI 2023 Workshop, is [available at Springer](https://link.springer.com/chapter/10.1007/978-3-031-45249-9_26)!.
 
 - **27 August 2023**: Our HybridGNet model for Chest X-ray segmentation is now publicly available on a HuggingFace Space! Check it out [here](https://huggingface.co/spaces/ngaggion/Chest-x-ray-HybridGNet-Segmentation).
 
-- **7 July 2023**: We released the CheXmask Dataset, a large-scale dataset of anatomical segmentation masks for more than 650.000 multi-center chest x-ray images with both physician and automatic quality validation. The dataset is available at [PhysioNet](https://physionet.org/content/chexmask-cxr-segmentation-data). Check the paper on [arXiv](https://arxiv.org/abs/2307.03293)!
+- **7 July 2023**: We released the CheXmask Dataset, a large-scale dataset of anatomical segmentation masks for more than 650.000 multi-center chest x-ray images with both physician and automatic quality validation. The dataset is available at [PhysioNet](https://physionet.org/content/chexmask-cxr-segmentation-data). Check the paper, now in [Scientific Data](https://www.nature.com/articles/s41597-024-03358-1)!
 
 - **18-23 June 2023**: Assisted the [International Conference on Information Processing in Medical Imaging (IPMI 2023)](https://ipmi2023.org/) in San Carlos de Bariloche, Argentina as a volunteer for the organization.
 

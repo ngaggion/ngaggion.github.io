@@ -3,10 +3,10 @@ title: "CheXmask: a large-scale dataset of anatomical segmentation masks for mul
 collection: publications
 permalink: /publication/chexmask
 excerpt: ''
-date: 2023-07-06
-status: 'In review'
-paperurl: 'https://arxiv.org/abs/2307.03293'
-citation: 'Gaggion, N., Mosquera, C., Mansilla, L., Aineseder, M., Milone, D. H., & Ferrante, E. (2023). CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images. arXiv preprint arXiv:2307.03293.'
+date: 2024-05-05
+status: 'Published in Nature Scientific Data'
+paperurl: 'https://doi.org/10.1038/s41597-024-03358-1'
+citation: 'Gaggion, N., Mosquera, C., Mansilla, L., Saidman, J. M., Aineseder, M., Milone, D. H., & Ferrante, E. (2024). CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images. Scientific Data, 11(1), 511.'
 image: '/images/histogram_CheXmask_blue.png'
 dataset_link: 'https://physionet.org/content/chexmask-cxr-segmentation-data'
 ---
@@ -21,12 +21,17 @@ The development of successful artificial intelligence models for chest X-ray ana
 
 ### Citation
 ````
-@misc{gaggion2023chexmask,
-      title={CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images}, 
-      author={Nicolás Gaggion and Candelaria Mosquera and Lucas Mansilla and Martina Aineseder and Diego H. Milone and Enzo Ferrante},
-      year={2023},
-      eprint={2307.03293},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@Article{gaggion2024chexmask,
+  author   = {Gaggion, Nicolás and Mosquera, Candelaria and Mansilla, Lucas and Saidman, Julia Mariel and Aineseder, Martina and Milone, Diego H. and Ferrante, Enzo},
+  title    = {CheXmask: a large-scale dataset of anatomical segmentation masks for multi-center chest x-ray images},
+  doi      = {10.1038/s41597-024-03358-1},
+  issn     = {2052-4463},
+  number   = {1},
+  pages    = {511},
+  url      = {https://doi.org/10.1038/s41597-024-03358-1},
+  volume   = {11},
+  journal  = {Scientific Data},
+  refid    = {Gaggion2024},
+  year     = {2024},
 }
 ````
