@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Machine Learning Engineer and Researcher from Argentina, specialized in the field of computer vision, graph neural networks, and deep learning. 
+I am a PhD Machine Learning Engineer and Researcher from Argentina, specialized in the field of computer vision, graph neural networks, and deep learning working at APOLO Biotech since May 2024. Since August 2024 I'm also an Adjunct Professor at Universidad de Buenos Aires.
 
 In May 2020, I received my Computer Engineer degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Upon completion, I secured a [CONICET](https://www.conicet.gov.ar/) scholarship to embark on my PhD journey at the same university. On February 2024, after almost 4 intense years, I got my PhD in Engineering degree!
 
 My PhD's work was based at [sinc(i)](https://sinc.unl.edu.ar/), the Research Institute for Signals, Systems and Computational Intelligence. There, I worked under the direct supervision of [Enzo Ferrante](https://eferrante.github.io), contributing to cutting-edge developments in our field. My research often intersects with medical imaging, with key projects focusing on advanced segmentation techniques and leveraging deep learning for high throughput phenotyping of plant roots.
 
 ## **Latest News**
+
+- **1 August 2024**: I started a position as a Adjunct Professor in the Computing Department, Facultad de Ciencias Exactas y Natural, Universidad de Buenos Aires.
+
+- **29 May 2024**: "Fitting Skeletal Models via Graph-Based Learning" was published in [IEEE ISBI 2024](https://ieeexplore.ieee.org/abstract/document/10635871/)!
 
 - **17 May 2024**: The CheXmask database was published in [Scientific Data](https://www.nature.com/articles/s41597-024-03358-1)!
 
