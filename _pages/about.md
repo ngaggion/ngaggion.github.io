@@ -16,6 +16,10 @@ My PhD's work was based at [sinc(i)](https://sinc.unl.edu.ar/), the Research Ins
 
 ## **Latest News**
 
+- **19 May 2025**: "Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI" was published in [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S136184152500177X)!
+
+- **1 May 2025**: "ChronoRoot 2.0: An Open AI-Powered Platform for 2D Temporal Plant Phenotyping" was published in [arXiv](https://arxiv.org/abs/2504.14736)!
+
 - **1 August 2024**: I started a position as a Adjunct Professor in the Computing Department, Facultad de Ciencias Exactas y Natural, Universidad de Buenos Aires.
 
 - **29 May 2024**: "Fitting Skeletal Models via Graph-Based Learning" was published in [IEEE ISBI 2024](https://ieeexplore.ieee.org/abstract/document/10635871/)!
