@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* Postdoctoral Researcher Scientist at APOLO Biotech 🚀
+* 2025 - Ongoing: MOPGA Postdoctoral Research Fellow at the Institute of Plant Sciences at Université Paris-Saclay (IPS2).
+* 2024-2025: Postdoctoral Researcher Scientist at APOLO Biotech - Adjunt Professor at Universidad de Buenos Aires.
+* 2020-2024: PhD Student at sinc(i), Universidad Nacional del Litoral - CONICET.
 
 Education
 ======
@@ -27,20 +29,6 @@ See full list in my [Google Scholar profile](https://scholar.google.com/citation
 
   <ul>{% for post in site.publications reversed%}
     {% include archive-paper-cv.html %}
-  {% endfor %}</ul>
-
-
-  
-Awards
-======
-- 2021 - Best Poster Award - LatinX in CV (LXCV) Research at ICCV 2021
-- 2021 - Student Travel Award - MICCAI 2021, 24th International Conference on Medical Image Computing and Computer Assisted Intervention
-- 2019 - Honorific mention at Best Poster Award - Khipu: Latin American Meeting In Artificial Intelligence
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching

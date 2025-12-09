@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Machine Learning Engineer and Researcher from Argentina, specializing in computer vision, graph neural networks, and deep learning for plant phenotyping and medical image analysis. Since May 2024, I work as a Post-Doctoral Research Scientist at APOLO Biotech, and since August 2024, I serve as an Adjunct Professor at Universidad de Buenos Aires.
+I am a PhD Machine Learning Engineer and Researcher from Argentina, specializing in computer vision, graph neural networks, and deep learning for plant phenotyping and medical image analysis. Since November 2025, I work as a Post-Doctoral Research Scientist at the Institute of Plant Sciences at Université Paris-Saclay (IPS2).
 
 In May 2020, I received my Computer Engineer degree from the [Facultad de Ingeniería y Ciencias Hídricas](http://fich.unl.edu.ar) at the [Universidad Nacional del Litoral](https://unl.edu.ar) (UNL), Santa Fe, Argentina. Upon completion, I secured a [CONICET](https://www.conicet.gov.ar/) scholarship to embark on my PhD journey at the same university. In February 2024, after almost 4 intense years, I obtained my PhD in Engineering degree!
 
 My PhD work was conducted at [sinc(i)](https://sinc.unl.edu.ar/), the Research Institute for Signals, Systems and Computational Intelligence, under the direct supervision of [Enzo Ferrante](https://eferrante.github.io). My research establishes two main lines: (1) **automated plant phenotyping systems** that combine low-cost 3D-printed hardware with deep learning models for temporal analysis of plant development, pioneering the ChronoRoot platform for high-throughput root system architecture analysis, and (2) **anatomically-aware medical image segmentation** using hybrid graph neural networks, creating the widely-adopted HybridGNet architecture and contributing the CheXmask dataset with over 650,000 chest X-ray segmentation masks to the research community.
 
-In August 2025, I was awarded a prestigious postdoctoral fellowship from the Make Our Planet Great Again (MOPGA) program to develop AI-powered crop phenotyping platforms at the [Institute of Plant Sciences Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html), starting November 2025. My work has resulted in 10+ peer-reviewed publications with 180+ citations and active collaborations spanning multiple continents.
+In August 2025, I was awarded a prestigious postdoctoral fellowship from the Make Our Planet Great Again (MOPGA) program to develop AI-powered crop phenotyping platforms at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html), starting November 2025. My work has resulted in 10+ peer-reviewed publications with 200+ citations and active collaborations spanning multiple continents.
 
 ## **Latest News**
 
+- **November 2025**: I started my MOPGA Postdoctoral Fellowship at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html)! Joining the [FunRNA Team](https://funrna.org/).
+
 - **September 2025**: Co-authored "What Large Language Models Know About Plant Molecular Biology" with Manuel Fernandez Burda, Lucia Ferrero, and colleagues from The MoBiPlant Consortium. This comprehensive benchmark evaluating LLMs in plant molecular biology is now available as a [preprint on bioRxiv](https://biorxiv.org/content/10.1101/2025.08.31.672925) with the [MoBiPlant dataset on HuggingFace](http://huggingface.co/datasets/manufernandezbur/MoBiPlant).
 
-- **August 2025**: I received the notification that I got a Postdoctoral fellowship from the Make Our Planet Great Again (MOPGA) program, funded by le Ministère de l'Europe et des Affaires étrangères, to start at late November 2025. I will be working at the [Institute of Plant Sciences Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html) under the supervision of Dr. Thomas Blein on the project "Developing an AI-Powered platform for enhanced crop phenotyping".
+- **August 2025**: I received the notification that I got a Postdoctoral fellowship from the Make Our Planet Great Again (MOPGA) program, funded by le Ministère de l'Europe et des Affaires étrangères, to start at late November 2025. I will be working at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html) under the supervision of Dr. Thomas Blein on the project "Developing an AI-Powered platform for enhanced crop phenotyping".
 
 - **19 May 2025**: "Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI" was published in [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S136184152500177X)!
 
@@ -56,13 +58,13 @@ In August 2025, I was awarded a prestigious postdoctoral fellowship from the Mak
 
 - **24 November 2022:** Our research titled ["Improving anatomical plausibility in medical image segmentation via hybrid graph neural networks: applications to chest x-ray analysis"](https://ieeexplore.ieee.org/document/9963582) was published online in the IEEE Transactions on Medical Imaging. 
 
-- **1 November 2022:** Concluded a productive research period at the Institute of Plant Sciences Paris-Saclay (IPS2).
+- **1 November 2022:** Concluded a productive research period at the Institute of Plant Sciences at Université Paris-Saclay (IPS2).
 
 - **26 October 2022:** Delivered a seminar at [IPS2](https://ips2.u-psud.fr/fr/index.html), Université Paris-Saclay, discussing "ChronoRoot: high throughput phenotyping of plant roots using deep learning". 
 
 - **25 October 2022:** Presented a seminar at [CentralSupélec](https://www.centralesupelec.fr/), Université Paris-Saclay. The presentation, titled "Translating images into graphs: novel computer vision methods for extracting graphs from images," introduced novel methods for converting images to graph structures.
 
-- **30 September 2022:** Arrived in Paris to begin my research visit at the [Institute of Plant Sciences Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html).
+- **30 September 2022:** Arrived in Paris to begin my research visit at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html).
 
 - **25 August 2022:** Commenced teaching "Linear Algebra, Optimization and Machine Learning" at [FIQ, UNL](http://fich.unl.edu.ar).
 
