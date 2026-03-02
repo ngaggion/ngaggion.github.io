@@ -18,6 +18,8 @@ In August 2025, I was awarded a prestigious postdoctoral fellowship from the Mak
 
 ## **Latest News**
 
+- **1 March 2026**: "ChronoRoot 2.0: An Open AI-Powered Platform for 2D Temporal Plant Phenotyping" was published in [GigaScience](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giag018/8502140)! Check the [Official Website](https://chronoroot.github.io/) to find the tool and tutorials.
+
 - **November 2025**: I started my MOPGA Postdoctoral Fellowship at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html)! Joining the [FunRNA Team](https://funrna.org/).
 
 - **September 2025**: Co-authored "What Large Language Models Know About Plant Molecular Biology" with Manuel Fernandez Burda, Lucia Ferrero, and colleagues from The MoBiPlant Consortium. This comprehensive benchmark evaluating LLMs in plant molecular biology is now available as a [preprint on bioRxiv](https://biorxiv.org/content/10.1101/2025.08.31.672925) with the [MoBiPlant dataset on HuggingFace](http://huggingface.co/datasets/manufernandezbur/MoBiPlant).
@@ -25,8 +27,6 @@ In August 2025, I was awarded a prestigious postdoctoral fellowship from the Mak
 - **August 2025**: I received the notification that I got a Postdoctoral fellowship from the Make Our Planet Great Again (MOPGA) program, funded by le Ministère de l'Europe et des Affaires étrangères, to start at late November 2025. I will be working at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html) under the supervision of Dr. Thomas Blein on the project "Developing an AI-Powered platform for enhanced crop phenotyping".
 
 - **19 May 2025**: "Multi-view Hybrid Graph Convolutional Network for Volume-to-mesh Reconstruction in Cardiovascular MRI" was published in [Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S136184152500177X)!
-
-- **1 May 2025**: "ChronoRoot 2.0: An Open AI-Powered Platform for 2D Temporal Plant Phenotyping" was published in [arXiv](https://arxiv.org/abs/2504.14736)!
 
 - **1 August 2024**: I started a position as a Adjunct Professor in the Computing Department, Facultad de Ciencias Exactas y Natural, Universidad de Buenos Aires.
 
