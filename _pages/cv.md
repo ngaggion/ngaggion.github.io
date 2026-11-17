@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-* 2025 - Ongoing: MOPGA Postdoctoral Research Fellow at the Institute of Plant Sciences at Université Paris-Saclay (IPS2).
-* 2024-2025: Postdoctoral Researcher Scientist at APOLO Biotech - Adjunt Professor at Universidad de Buenos Aires.
+* 2025-2026: MOPGA Postdoctoral Research Fellow at the Institute of Plant Sciences at University Paris-Saclay (IPS2) (Nov 2025 – Nov 2026).
+* March 2026: Contract Lecturer (Computer Vision, DSBA-CS-2036, taught in English) at CentraleSupélec, University Paris-Saclay.
+* 2024-2025: Postdoctoral Researcher Scientist at APOLO Biotech - Adjunct Professor at Universidad de Buenos Aires (until Nov 2025).
 * 2020-2024: PhD Student at sinc(i), Universidad Nacional del Litoral - CONICET.
 
 Education
