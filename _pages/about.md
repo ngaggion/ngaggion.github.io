@@ -18,7 +18,13 @@ In August 2025, I was awarded a prestigious postdoctoral fellowship from the Mak
 
 ## **Latest News**
 
+- **25 September 2026**: "Self-Supervised Temporal Regularization for Landmark-Based Cardiac Segmentation with Automatic AHA Regional Mapping" was published at [MICCAI 2026](https://doi.org/10.1007/978-3-032-38069-2_55) ([arXiv](https://arxiv.org/abs/2606.31785)).
+
+- **10 July 2026**: "CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images" was published at [MIDL 2026](https://proceedings.mlr.press/v315/cosarinsky26a.html).
+
 - **1 March 2026**: "ChronoRoot 2.0: An Open AI-Powered Platform for 2D Temporal Plant Phenotyping" was published in [GigaScience](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giag018/8502140)! Check the [Official Website](https://chronoroot.github.io/) to find the tool and tutorials.
+
+- **24 February 2026**: Preprint out: "Mask-HybridGNet: Graph-based segmentation with emergent anatomical correspondence from pixel-level supervision" on [arXiv](https://arxiv.org/abs/2602.21179).
 
 - **November 2025**: I started my MOPGA Postdoctoral Fellowship at the [Institute of Plant Sciences at Université Paris-Saclay (IPS2)](https://ips2.u-psud.fr/fr/index.html)! Joining the [FunRNA Team](https://funrna.org/).
 
